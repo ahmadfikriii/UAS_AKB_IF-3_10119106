@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23674261141",
+    "project_id": "uas-akb-79c3c",
+    "storage_bucket": "uas-akb-79c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23674261141:android:c957466890ad2d7ac9959c",
+        "android_client_info": {
+          "package_name": "ahmad.fikri.mydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23674261141-0m39vmn7qj733nc1bsdpqtq01vimuidd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8YXUELni8hSkZq2881U7crsHwmgI4nRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23674261141-0m39vmn7qj733nc1bsdpqtq01vimuidd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
